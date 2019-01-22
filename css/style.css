@@ -1726,7 +1726,7 @@ body:not(.mobile) .socials-box a:hover .fa {
 .header-functionality-entry {
 	font-size: 18px !important;
 	line-height: 15px;
-	color: #d21413;
+	color: #f38b02;
 	font-weight: 700 !important;
 	display: inline-block;
 	vertical-align: middle;
@@ -2406,7 +2406,7 @@ header .icon-entry .text b {
 		width: 100%;
 		position: absolute;
 		left: 0;
-		top: 120px;
+		top: 140px;
 		/*overflow-y: auto; */
 		-webkit-overflow-scrolling: touch;
 		-moz-overflow-scrolling: touch;
@@ -2571,6 +2571,7 @@ header .icon-entry .text b {
 	}
 	.logo-responsive img {
 		padding: 10px 0;
+		height: 120px;
 	}
 
 	.nav-overflow .col-md-4 {
