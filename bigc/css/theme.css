@@ -735,8 +735,8 @@ blockquote {
 }
 
 .info-total .icon-search {
-    background: #f38b00;
-    border: 2px solid #f38b00;
+    background: #009b32;
+    border: 2px solid #009b32;
     border-radius: 0;
     color: #fff!important;
     display: initial;
@@ -10922,3 +10922,17 @@ a.content-link {
         text-align: center;
     }
 }
+
+/*
+.info-total .icon-search {
+    background: #009b32;
+    border: 2px solid #009b32;
+    border-radius: 0;
+    color: #fff!important;
+    display: initial;
+    font-size: 11px;
+    font-weight: 600;
+    height: 38px;
+    line-height: 0;
+    padding: 10px 24px;
+}*/

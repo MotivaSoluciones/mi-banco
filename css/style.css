@@ -1775,7 +1775,7 @@ a.open-cart-popup {
 }
 
 a.open-cart-popup .count {
-	background-color: #349343;
+	background-color: #000;
 	border-radius: 50%;
 	bottom: 12px;
 	color: #fff;
@@ -10518,7 +10518,7 @@ header.type-4 .header-top:before {
 		color: #fff;
 	}
 	header.type-4 .header-functionality-entry {
-		color: #f38b02;
+		color: #009b32;
 	}
 	header.type-4 .header-functionality-entry span.lnr {
 		font-weight: 700;
@@ -10979,10 +10979,10 @@ body.style-15 .navigation-banner-content .title,
 /*Pagina de puntos*/
 
 .banner_estatico.puntos .cell-view {
-	color: #fff;
+	color: #333;
 	text-align: center;
 	display: block;
-	padding-top: 55px;
+	padding-top: 65px;
 	font-size: 21px;
 	letter-spacing: 1px;
 }
@@ -13164,11 +13164,13 @@ form label {
 	padding: 40px;
 	margin-top: 20px;
 }
+
 @media(max-width:425px) {
 	.login-form {
 		padding: 40px 20px;
 	}
 }
+
 .update-form {
 	background-color: #fff;
 	padding: 40px;
@@ -13622,7 +13624,7 @@ span.help-block {
 .info-header li.info-pts span {
 	font-size: 16px;
 	font-weight: 700;
-	color: #f38b02;
+	color: #009b32;
 }
 
 .title-metas {
@@ -13783,3 +13785,21 @@ p.result {
 	color: #343434;
 	cursor: pointer;
 }
+
+.gema {
+	display: inline-block;
+	height: 20px;
+	float: none;
+	width: auto;
+}
+/*
+.info-header li.info-pts span {
+    font-size: 16px;
+    font-weight: 700;
+    color: #009b32;
+}
+header.type-4 .header-functionality-entry {
+    color: #009b32;
+}
+
+*/
