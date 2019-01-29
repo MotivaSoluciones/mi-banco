@@ -2406,7 +2406,7 @@ header .icon-entry .text b {
 		width: 100%;
 		position: absolute;
 		left: 0;
-		top: 140px;
+		top: 185px;
 		/*overflow-y: auto; */
 		-webkit-overflow-scrolling: touch;
 		-moz-overflow-scrolling: touch;
@@ -2436,7 +2436,7 @@ header .icon-entry .text b {
 		line-height: 40px;
 		position: absolute;
 		left: 25px;
-		top: 30px;
+		top: 15px;
 		cursor: pointer;
 		text-transform: uppercase;
 	}
@@ -2568,10 +2568,6 @@ header .icon-entry .text b {
 	/*.search-box.popup{top: 100px!important}*/
 	.logo-responsive {
 		text-align: center;
-	}
-	.logo-responsive img {
-		padding: 10px 0;
-		height: 120px;
 	}
 
 	.nav-overflow .col-md-4 {
@@ -12225,8 +12221,7 @@ body:not(.mobile) .special-item-entry:hover > img:first-child {
 		margin-bottom: 15px!important
 	}
 	.popup-container img {
-		width: auto;
-		height: 250px;
+
 		margin: 0 auto
 	}
 	#bienvenida-popup img {
@@ -13205,7 +13200,7 @@ form label {
 
 .fondo {
 	background-repeat: no-repeat!important;
-	background-position: center center;
+	background-size: 100%;
 	background: url(../img/bg/bg-login.png);
 }
 
